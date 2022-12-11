@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Let</string>
+    <string name="movie_name">Movie name</string>
+    <string name="_6_5">6.5</string>
+    <string name="todo">TODO</string>
+    <string name="language">Language</string>
+    <string name="subtitle">Subtitles</string>
+    <string name="todoo">TODO</string>
+    <string name="toda">TODO</string>
+</resources>
